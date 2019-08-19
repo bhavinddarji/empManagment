@@ -1,0 +1,14 @@
+D:\Bhavin\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\EmployeeManagement.csprojAssemblyReference.cache
+D:\Bhavin\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp2.2\EmployeeManagement.deps.json
+D:\Bhavin\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp2.2\EmployeeManagement.runtimeconfig.json
+D:\Bhavin\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp2.2\EmployeeManagement.runtimeconfig.dev.json
+D:\Bhavin\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp2.2\EmployeeManagement.dll
+D:\Bhavin\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp2.2\EmployeeManagement.pdb
+D:\Bhavin\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\EmployeeManagement.csproj.CoreCompileInputs.cache
+D:\Bhavin\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\EmployeeManagement.RazorAssemblyInfo.cache
+D:\Bhavin\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\EmployeeManagement.RazorAssemblyInfo.cs
+D:\Bhavin\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\EmployeeManagement.AssemblyInfoInputs.cache
+D:\Bhavin\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\EmployeeManagement.AssemblyInfo.cs
+D:\Bhavin\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\EmployeeManagement.RazorTargetAssemblyInfo.cache
+D:\Bhavin\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\EmployeeManagement.dll
+D:\Bhavin\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\EmployeeManagement.pdb
