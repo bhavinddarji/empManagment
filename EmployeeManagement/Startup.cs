@@ -52,10 +52,10 @@ namespace EmployeeManagement
             //fileServerOptions.DefaultFilesOptions.DefaultFileNames.Add("foo.html");
             //app.UseFileServer();
 
-            app.Run(async (context) =>
-            {
-                await context.Response.WriteAsync("Hosting Environment :" + env.EnvironmentName);
-            });
+            //app.Run(async (context) =>
+            //{
+            //    await context.Response.WriteAsync("Hosting Environment :" + env.EnvironmentName);
+            //});
         }
     }
 }

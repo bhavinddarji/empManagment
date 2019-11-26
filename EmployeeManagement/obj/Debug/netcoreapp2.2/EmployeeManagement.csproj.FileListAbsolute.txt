@@ -39,3 +39,4 @@ D:\Bhavin\EmployeeManagement\empManagment\EmployeeManagement\obj\Debug\netcoreap
 D:\Bhavin\EmployeeManagement\empManagment\EmployeeManagement\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
 D:\Bhavin\EmployeeManagement\empManagment\EmployeeManagement\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
 D:\Bhavin\EmployeeManagement\empManagment\EmployeeManagement\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+D:\Bhavin\EmployeeManagement\empManagment\EmployeeManagement\obj\Debug\netcoreapp2.2\Razor\Views\Home\create.g.cshtml.cs
