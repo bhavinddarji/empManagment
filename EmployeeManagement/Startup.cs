@@ -8,6 +8,7 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Configuration;
 using EmployeeManagement.Models;
+using Microsoft.EntityFrameworkCore;
 
 namespace EmployeeManagement
 {
@@ -23,8 +24,10 @@ namespace EmployeeManagement
         // For more information on how to configure your application, visit https://go.microsoft.com/fwlink/?LinkID=398940
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddDbContextPool<AppDbContext>(options => options.UseSqlServer(_config.GetConnectionString("EmployeeDbConnection")));
             services.AddMvc();
-            services.AddSingleton<IEmployeeRepository, MockEmployeeRepository>();
+            services.AddScoped<IEmployeeRepository, EmployeeRepository>();
+            
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -34,7 +37,6 @@ namespace EmployeeManagement
             {
                 app.UseDeveloperExceptionPage();
             }
-
             //DefaultFilesOptions defaultFilesOptions = new DefaultFilesOptions();
             //defaultFilesOptions.DefaultFileNames.Clear();
             //defaultFilesOptions.DefaultFileNames.Add("foo.html");
